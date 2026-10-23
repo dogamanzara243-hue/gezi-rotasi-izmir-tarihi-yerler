@@ -4,24 +4,29 @@ const DETAIL_DATA = {
     "badge": "Tarihi Yerler",
     "items": [
         {
-            "title": "Tarihi Eser 1 - Izmir",
-            "desc": "Izmir şehrinin köklü geçmişini yansıtan simge yapı."
+            "category": "Popüler Nokta 1",
+            "title": "Önemli Mekan 1 - Izmir",
+            "desc": "Izmir şehrinin en çok ziyaret edilen gözde lokasyonlarından biri."
         },
         {
-            "title": "Tarihi Eser 2 - Izmir",
-            "desc": "Yüzyıllık geçmişe sahip antik kalıntı ve müze."
+            "category": "Popüler Nokta 2",
+            "title": "Önemli Mekan 2 - Izmir",
+            "desc": "Tarihi ve kültürel dokusuyla büyüleyen özel bir nokta."
         },
         {
-            "title": "Tarihi Eser 3 - Izmir",
-            "desc": "Bölgenin tarihi dokusunu gözler önüne seren yapı."
+            "category": "Popüler Nokta 3",
+            "title": "Önemli Mekan 3 - Izmir",
+            "desc": "Gezginlerin rotasından eksik etmediği popüler bir durak."
         },
         {
-            "title": "Tarihi Eser 4 - Izmir",
-            "desc": "Mimari özellikleriyle dikkat çeken eski eser."
+            "category": "Popüler Nokta 4",
+            "title": "Önemli Mekan 4 - Izmir",
+            "desc": "Mimari ve doğal güzellikleriyle göz kamaştıran bölge."
         },
         {
-            "title": "Tarihi Eser 5 - Izmir",
-            "desc": "Şehrin kültürel mirasını temsil eden tarihi nokta."
+            "category": "Popüler Nokta 5",
+            "title": "Önemli Mekan 5 - Izmir",
+            "desc": "Izmir keşif turunun vazgeçilmez simgelerinden biri."
         }
     ]
 };
