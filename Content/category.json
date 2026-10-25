@@ -3,54 +3,126 @@
     "description": "Izmir şehrindeki en öne çıkan tarihi yerler ve popüler noktalar.",
     "category": [
         {
-            "id": "tarihi-yerler-1",
-            "title": "Önemli Mekan 1 - Izmir",
-            "category_badge": "Popüler Durak",
-            "badge_icon": "fa-star",
-            "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80",
-            "description": "Izmir şehrinin en çok ziyaret edilen ve beğenilen özel lokasyonlarından biri.",
-            "target_url": "#",
-            "button_text": "Detayları Gör"
-        },
-        {
-            "id": "tarihi-yerler-2",
-            "title": "Önemli Mekan 2 - Izmir",
-            "category_badge": "Kültür & Yaşam",
-            "badge_icon": "fa-landmark",
-            "image": "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80",
-            "description": "Bölgenin dokusunu ve sosyal hayatını yansıtan tarihi ve modern buluşma noktası.",
-            "target_url": "#",
-            "button_text": "İncele"
-        },
-        {
-            "id": "tarihi-yerler-3",
-            "title": "Önemli Mekan 3 - Izmir",
-            "category_badge": "Gezgin Favorisi",
-            "badge_icon": "fa-compass",
-            "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=800&q=80",
-            "description": "Ziyaretçilerin rotalarından asla eksik etmediği atmosferik ve eşsiz bir nokta.",
-            "target_url": "#",
-            "button_text": "Keşfet"
-        },
-        {
-            "id": "tarihi-yerler-4",
-            "title": "Önemli Mekan 4 - Izmir",
-            "category_badge": "Özel Mimari",
-            "badge_icon": "fa-city",
-            "image": "https://images.unsplash.com/photo-1527838832700-548952f12098?auto=format&fit=crop&w=800&q=80",
-            "description": "Mimari yapısı ve çevresindeki estetik detaylarıyla göz kamaştıran bölge.",
-            "target_url": "#",
-            "button_text": "Göz At"
-        },
-        {
-            "id": "tarihi-yerler-5",
-            "title": "Önemli Mekan 5 - Izmir",
-            "category_badge": "Simge Nokta",
-            "badge_icon": "fa-location-dot",
-            "image": "https://images.unsplash.com/photo-1590073844006-33379778ae09?auto=format&fit=crop&w=800&q=80",
-            "description": "Izmir gezisinde mutlaka görülmesi gereken simge mekanlardan biri.",
-            "target_url": "#",
-            "button_text": "Ziyaret Et"
-        }
-    ]
-}
+            
+  
+    "id": "ayasofya-camii",
+    "title": "Ayasofya-i Kebir Cami-i Şerifi",
+    "category_badge": "UNESCO & Dünya Mirası",
+    "badge_icon": "fa-mosque",
+    "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80",
+    "description": "Mimarlık tarihinin en büyük şaheserlerinden biri olan Ayasofya, devasa kubbesi, eşsiz mozaikleri ve asırlık tarihiyle Doğu ile Batı'nın buluşma noktasıdır. Yüzyıllar boyunca imparatorluklara ev sahipliği yapmış bu efsanevi yapı İstanbul'un kalbidir.",
+    "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-ayasofya-camii/",
+    "button_text": "Mabedi Keşfet"
+  },
+  {
+    "id": "topkapi-sarayi",
+    "title": "Topkapı Sarayı Müzesi",
+    "category_badge": "Osmanlı Hanedan Mirası",
+    "badge_icon": "fa-crown",
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+    "description": "Osmanlı İmparatorluğu'nun 400 yıl boyunca yönetim merkezi olan Topkapı Sarayı; Harem daireleri, Mukaddes Emanetler ve Boğaz'a hakim görkemli avlularıyla sizi imparatorluk döneminde büyüleyici bir yolculuğa çıkarıyor.",
+    "target_url":"https://dogamanzara243-hue.github.io/gezi-rotasi-istanbul-topkapi-sarayi/",
+    "button_text": "Sarayı İncele"
+  },
+  {
+    "id": "dolmabahce-sarayi",
+    "title": "Dolmabahçe Sarayı",
+    "category_badge": "Boğaz Kıyısında İhtişam",
+    "badge_icon": "fa-monument",
+    "image": "https://images.unsplash.com/photo-1527838832700-5059252407fa?auto=format&fit=crop&w=800&q=80",
+    "description": "Boğaz'ın hemen kıyısında Batı mimarisinin zarafetiyle inşa edilen Dolmabahçe Sarayı, devasa kristal avizeleri, yaldızlı tavan süslemeleri ve Cumhuriyetimizin kurucusu Atatürk'ün gözlerini yumduğu tarihi atmosferiyle göz kamaştırıyor.",
+    "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-istanbul-dolmabahce-saray/",
+    "button_text": "Sarayı Keşfet"
+  },
+  {
+    "id": "yerebatan-sarnici",
+    "title": "Yerebatan Sarnıcı",
+    "category_badge": "Yer Altı Mucizesi",
+    "badge_icon": "fa-water",
+    "image": "https://images.unsplash.com/photo-1572588583696-6138981442bb?auto=format&fit=crop&w=800&q=80",
+    "description": "Tarihi yarımadanın altında yükselen 336 mermer sütunu, mistik aydınlatması ve gizemli Medusa başlarıyla Yerebatan Sarnıcı, ziyaretçilerine İstanbul'un su altındaki büyülü dünyasını ve binlerce yıllık tarihini hissettiriyor.",
+    "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-istanbul-yerebatan-sarnici/",
+    "button_text": "Sarnıcı İncele"
+  },
+  {
+    "id": "kapali-carsi",
+    "title": "Tarihi Kapalıçarşı",
+    "category_badge": "Nostaljik Alışveriş",
+    "badge_icon": "fa-store",
+    "image": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=800&q=80",
+    "description": "Dünyanın en eski ve en büyük üstü kapalı çarşılarından biri olan Kapalıçarşı, binlerce dükkanı, baharat kokulu sokakları ve otantik zanaatkarlarıyla ticaretin ve kültürün asırlardır atan nabzıdır.",
+    "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-istanbul-kapalicarsi/",
+    "button_text": "Çarşıyı Keşfet"
+  },
+  {
+    "id": "suleymaniye-camii",
+    "title": "Süleymaniye Camii ve Külliyesi",
+    "category_badge": "Mimar Sinan Eseri",
+    "badge_icon": "fa-kaaba",
+    "image": "https://images.unsplash.com/photo-1596895111956-bf1cf0599ce5?auto=format&fit=crop&w=800&q=80",
+    "description": "Mimar Sinan'ın kalfalık eserim dediği muazzam yapı. Kanuni Sultan Süleyman adına yaptırılan külliye, akustiği ve Haliç'e hakim muhteşem manzarasıyla büyülüyor.",
+    "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-istanbul-s-leymaniye-camii/",
+    "button_text": "Külliyeyi İncele"
+  },
+  {
+    "id": "sirkeci-tren-gari",
+    "title": "Sirkeci Tren Garı",
+    "category_badge": "Oryantalist Mimari",
+    "badge_icon": "fa-train",
+    "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80",
+    "description": "Orient Express'in son durağı olan Sirkeci Tren Garı, görkemli taş işçiliği ve vitray pencereleriyle büyüleyici bir atmosfer sunuyor. Tarihi dokusu ve Haliç'e yakın konumuyla İstanbul'un en özel sembollerinden biridir.",
+    "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-istanbul-sirkeci-tren-gari/",
+    "button_text": "Tarihi Garı İncele"
+  },
+  {
+    "id": "galata-kulesi",
+    "title": "Galata Kulesi",
+    "category_badge": "Panoramik İstanbul",
+    "badge_icon": "fa-gopurchasely",
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=800&q=80",
+    "description": "İstanbul'un panoramik seyrine doyum olmayan en simgesel yapısı. Cenevizlilerden günümüze ulaşan kule, Hezarfen Ahmet Çelebi'nin uçuş efsanesine ve Beyoğlu'nun canlı sokaklarına ev sahipliği yapıyor.",
+    "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-istanbul-galata-kulesi/",
+    "button_text": "Kuleyi Keşfet"
+  },
+  {
+    "id": "kiz-kulesi",
+    "title": "Kız Kulesi",
+    "category_badge": "Boğaz'ın İncisi",
+    "badge_icon": "fa-water",
+    "image": "https://images.unsplash.com/photo-1510018572596-e40e2619b412?auto=format&fit=crop&w=800&q=80",
+    "description": "Salacak açıklarında Boğaz'ın ortasında tek başına süzülen efsanevi yapı. Hakkında anlatılan aşk ve kehanet efsaneleriyle Kız Kulesi, İstanbul siluetinin vazgeçilmez romantik simgesidir.",
+    "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-istanbul-kiz-kulesi/",
+    "button_text": "Efsaneyi İncele"
+  },
+  {
+    "id": "fatih-sultan-mehmet-korpusu",
+    "title": "Fatih Sultan Mehmet Köprüsü",
+    "category_badge": "Kıtaları Bağlayan Köprü",
+    "badge_icon": "fa-bridge",
+    "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80",
+    "description": "Asya ile Avrupa kıtalarını birbirine bağlayan muazzam mühendislik harikası. Otağtepe ve Rumeli Hisarı sırtlarından izlenen büyüleyici ışıklandırması ve Boğaz manzarasıyla İstanbul'un modern sembolüdür.",
+    "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-istanbul-fatih-sultan-mehmet-koprusu/",
+    "button_text": "Manzarayı Keşfet"
+  }, 
+  {
+    "id": "istanbul-hisarlar-muzesi",
+    "title": "İstanbul Hisarlar Müzesi (Rumeli Hisarı)",
+    "category_badge": "Fatih'in Mirası",
+    "badge_icon": "fa-chess-rook",
+    "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80",
+    "description": "Fatih Sultan Mehmet'in İstanbul'un fethinden önce Boğaz'ın en dar noktasına inşa ettirdiği muazzam Rumeli Hisarı, görkemli surları ve açık hava müzesi alanıyla tarih ve manzaranın buluştuğu eşsiz bir duraktır.",
+    "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-istanbul-hisarlar-muzesi/",
+    "button_text": "Hisarı İncele"
+  },
+  {
+    "id": "misir-carsisi",
+    "title": "Tarihi Mısır Çarşısı",
+    "category_badge": "Baharat Kokulu Çarşı",
+    "badge_icon": "fa-seedling",
+    "image": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=800&q=80",
+    "description": "Eminönü'nün kalbinde yer alan 17. yüzyül yapımı Mısır Çarşısı; rengarenk baharatları, şifalı otları, kuruyemişleri ve geleneksel lezzetleriyle İstanbul'un en otantik ve nefis kokulu alışveriş merkezidir.",
+    "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-istanbul-misir-carsisi-/",
+    "button_text": "Çarşıyı Keşfet"
+  }
+
+]
